@@ -36,7 +36,7 @@
       "url_imagem": "https://img.freepik.com/vetores-gratis/icone-de-bebida-plastica-de-garrafa-de-agua_18591-82523.jpg",
       "titulo": "Plásticos",
       "subtitulo": "Garrafas PET, potes, embalagens, sacolas e copos descartáveis.",
-      "tamanhoimg": 90
+      "tamanhoimg": 90,
       "latitude": -9.7580,
       "longitude": -36.6577
     },
